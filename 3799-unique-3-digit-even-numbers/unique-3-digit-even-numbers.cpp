@@ -11,7 +11,7 @@ public:
 
         for(int num = 100; num <= 999; num++) {
 
-            // Number must be even
+
             if(num % 2 != 0)
                 continue;
 
